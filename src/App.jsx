@@ -1,13 +1,13 @@
-
-import Header from"./Header/Header";
-'./App.css'
+import Header from "./Header/Header";
+import './App.css'
 
 function App() {
   return (
-    <div >
+    <div>
       <Header />
       <h1>Hello React!</h1>
       <p>Welcome to React Workshop</p>
+      <p>Welcome to Kaumini Nawodya!!!!!!!!!!!!!!!!</p>
     </div>
   );
 }
